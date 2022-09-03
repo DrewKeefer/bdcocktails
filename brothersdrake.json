@@ -1,0 +1,394 @@
+{
+    "DRINKS": [
+    {
+        "name":"Psycho",
+        "ingredients": [
+        "2 oz Watershed Four Peel Gin",
+        "1 oz Blood Brothers Mead",
+        "½ oz Creme de Violette",
+        "1 dash spiced citron bitters",
+        "2 dashes foaming bitters"],
+        "garnish":"Garnish: cherry syrup splatter",
+        "directions":"Quick shake all ingredients except foaming bitters and strain into tin. Add foaming bitters and long hard dry shake. Pour into coupe glass."
+    },
+    {
+        "name":"Candy",
+        "ingredients": [
+        "3½ oz 1812",
+        "1 oz Domaine",
+        "¼ orange wedge",
+        "Few drops of lemon juice"],
+        "garnish":"Garnish: Lemon peel",
+        "directions":"Squeeze orange wedge and hard shake all ingredients over ice. Strain into a rocks glass and serve neat."
+    },
+    {
+        "name":"Blair Witch Project",
+        "ingredients": [
+        "1¾ oz Watershed Apple Brandy",
+        "1 oz Pollinator",
+        "½ oz simple syrup",
+        "2 drops Angostura bitters"],
+        "garnish":"Garnish: skewered cherry and orange peel",
+        "directions":"Stir all ingredients over ice, then strain into rocks glass over ice. Express the orange peel over the drink."
+    },
+    {
+        "name":"It",
+        "ingredients": [
+        "3 oz Apple Pie",
+        "½ oz simple",
+        "½ lemon",
+        "1 dash spiced cranberry bitters"],
+        "garnish":"Blackjack float",
+        "directions":"Shake ingredients quick and hard, then strain into rocks glass. Finish with a float Blackjack. "
+    },
+    {
+        "name":"Hell Raiser",
+        "ingredients": [
+        "2 oz Middle West Bourbon",
+        "1 oz Ginger Verve",
+        "1 oz simple syrup",
+        "¾ oz lemon juice",
+        "½ oz Domaine"],
+        "garnish":"Garnish: skewered cherry",
+        "directions":"Shake all ingredients over ice and strain back into tin.  Dry shake with foaming bitters, then strain into Nick &amp; Nora glass."
+    },
+    {
+        "name":"Impeachment",
+        "ingredients": [
+        "1 mint leaf",
+        "½ lime, squeezed",
+        "2 oz Peach Rush",
+        "1½ 451 Rum",
+        "2 dashes peach bitters"],
+        "garnish":"Garnish: No garnish",
+        "directions":"Shake ingredients quick and hard, then strain into a Collins glass over ice. Top with tonic water."
+    },
+    {
+        "name":"Flytown Mule",
+        "ingredients": [
+        "2 oz spirit of choice",
+        "½ lime, squeezed",
+        "Ginger Beer"],
+        "garnish":"Garnish: 1 lime wheel",
+        "directions":"Build cocktail in mead glass. Add ice and top with ginger beer."
+    },
+    {
+        "name":"Wild Sweet Annie",
+        "ingredients": [
+        "2 oz Wild Ohio",
+        "1 oz Middle West Whiskey",
+        "¾ oz Domaine"],
+        "garnish":"Garnish: 1 lemon wedge",
+        "directions":"Build cocktail in rocks glass. Add light ice (4 cubes) and swirl. Squeeze and drop lemon wedge into glass."
+    },
+    {
+        "name":"Meadhattan",
+        "ingredients": [
+        "2½ oz Middle West Bourbon",
+        "¾ oz Wild Ohio",
+        "½ oz Cherry juice",
+        "2 dashes Angostura bitters"],
+        "garnish":"Garnish: skewered cherry",
+        "directions":"Stir all ingredients over ice, then strain into a chilled Nick &amp; Nora glass. Garnish with the cherry."
+    },
+    {
+        "name":"Ohio Gold",
+        "ingredients": [
+        "1½ oz Middle West Bourbon",
+        "½ oz Domaine",
+        "1½ Apple Pie",
+        "1 oz Ginger Beer",
+        "1 dash Angostura bitters"],
+        "garnish":"Garnish: Orange peel",
+        "directions":"Hard shake over ice, then strain into rocks glass. Express orange peel over the drink, drop into glass, and top with ginger beer."
+    },
+    {
+        "name":"Battle Me",
+        "ingredients": [
+        "1½ oz Gin",
+        "1½ oz Battle Axe",
+        "½ oz Rosé vermouth",
+        "4 drops orange bitters"],
+        "garnish":"Garnish: 1 lemon twist",
+        "directions":"Stir all ingredients over ice, then strain into a rocks glass. Express lemon over the drink, and drop into glass."
+    },
+    {
+        "name":"The Square",
+        "ingredients": [
+        "2 oz Tequila",
+        "1½ oz Blueberry Yum Yum",
+        "1 oz Gran Gala",
+        "½ lime, squeezed",
+        "1 splash orange juice"],
+        "garnish":"Garnish: Tajín sprinkled lime wheel",
+        "directions":"Shake all ingredients over ice, then strain into a Collins glass over ice. Garnish with Tajín lime wheel."
+    },
+    {
+        "name":"Chad's Mom",
+        "ingredients": [
+        "2 oz Middle West Bourbon",
+        "Splash of Wild Ohio",
+        "¼ orange wedge",
+        "1 Luxardo cherry",
+        "3 dashes Angostura Bitters",
+        "Soda Water"],
+        "garnish":"Garnish: No garnish",
+        "directions":"Muddle orange, cherry, and bitters in rocks glass. Add other ingredients and stir over light ice. Top with a splash of soda water."
+    },
+    {
+        "name":"The Family Jules",
+        "ingredients": [
+        "¾ oz Gin",
+        "¾ oz Green Chartreuse",
+        "¾ oz Luxardo Maraschino",
+        "¾ lime juice",
+        "¾ Gravenstein"],
+        "garnish":"Garnish: No garnish",
+        "directions":"Ask Julian to make it for you I guess."
+    },
+    {
+        "name":"Meadarita",
+        "ingredients": [
+        "1½ oz OYO Vodka",
+        "½ oz Cointreau",
+        "2 oz HT Mead",
+        "1 whole lime, squeezed",
+        "½ oz simple syrup"],
+        "garnish":"Garnish: orange peel",
+        "directions":"Shake al ingredients over ice, then strain into glass. Drop half a lime into glass and garnish with orange peel. Optionally add salt rim."
+    },
+    {
+        "name":"Dancing Ricky",
+        "ingredients": [
+        "1½ oz Dancing Tree Gin",
+        "½ lime, squeezed",
+        "Soda Water"],
+        "garnish":"Garnish: 1 lime wedge",
+        "directions":"Build in highball glass full of ice. Top with soda water and garnish with lime wedge."
+    },
+    {
+        "name":"Grapefruit Moon",
+        "ingredients": [
+        "1 oz Grapefruit juice",
+        "1½ oz Gin",
+        "2 oz Honey Oak",
+        "¼ oz simple syrup",
+        "2 Sage sprigs"],
+        "garnish":"Garnish: Sage sprig",
+        "directions":"Muddle sage and simple syrup in tin. Add all other ingredients and shake well over ice. Strain into tall martini glass with a fine mesh, then garnish with one sage sprig."
+    },
+    {
+        "name":"New Fashioned",
+        "ingredients": [
+        "2 oz Watershed Bourbon Barrel Gin",
+        "2 oz Honey Oak",
+        "½ teaspoon of sugar",
+        "3 drops Grapefruit bitters",
+        "¼ orange slice"],
+        "garnish":"Garnish: No garnish",
+        "directions":"Muddle orange, sugar, and grapfruit bitters in tin. Add all other ingredients and stir over light ice. Strain into rocks glass."
+    },
+    {
+        "name":"Theophany",
+        "ingredients": [
+        "2 oz PawPaw Mead",
+        "2 oz Dancing Tree Grappa",
+        "2 drops aromatic bitters",
+        "1 scoop of froen grapes"],
+        "garnish":"Garnish: Rosemary sprig",
+        "directions":"Swirl all ingredients in tin, using frozen grapes as replacement for ice. Pour all contents into a chilled martini glass, then garnish with rosemary."
+    },
+    {
+        "name":"Gindecent Exposure",
+        "ingredients": [
+        "1 oz Gin",
+        "1 oz HT Mead",
+        "½ oz Orange juice",
+        "¼ Saffron syrup"],
+        "garnish":"Garnish: No garnish",
+        "directions":"Shake all ingredients over ice."
+    },
+    {
+        "name":"Grover Cleveland",
+        "ingredients": [
+        "1 oz Whiskey",
+        "1 oz Domaine",
+        "1 oz Cranberry juice"],
+        "garnish":"Garnish: No garnish",
+        "directions":"Lightly shake all ingredients over ice."
+    },
+    {
+        "name":"Habanero Hebdo",
+        "ingredients": [
+        "1½ oz Whiskey",
+        "1½ oz Hot Shot"],
+        "garnish":"Garnish: No garnish",
+        "directions":"Roll all ingredients with ice."
+    },
+    {
+        "name":"O-Y-What",
+        "ingredients": [
+        "½ oz Honey Vanilla Vodka",
+        "½ oz Whiskey",
+        "½ oz Stonefruit Vodka",
+        "1 oz Cranberry juice"],
+        "garnish":"Garnish: No garnish.",
+        "directions":"Shake all ingredients over ice."
+    },
+    {
+        "name":"Temperance Sour",
+        "ingredients": [
+        "1½ oz Vodka",
+        "2½ oz Blue Lemonade",
+        "¾ oz simple syrup",
+        "½ lemon, juiced",
+        "2 dashes Rhubarb bitters",
+        "1 egg white"],
+        "garnish":"Garnish: Lemon twist",
+        "directions":"Dry shake all ingredients, the lightly shake over ice. Strain into a rocks glass and garnish with lemon peel."
+    },
+    {
+        "name":"Spanky's Hot Mid WEstern Buckeye Basil Express",
+        "ingredients": [
+        "3 oz Wild Ohio",
+        "½ oz Watershed Gin",
+        "2½ thin slices of seeded jalapeño",
+        "3 zests of orange peel",
+        "Large basil leaf",
+        "1 drop blue agave nectar"],
+        "garnish":"Garnish: No garnish",
+        "directions":"Slap basil 2-3 times, then muddle in tin with jalapeños, orange zest, and agave nectar. Add other ingredients and shake like hell with heavy ice. Strain into martini glass."
+    },
+    {
+        "name":"Sam's Jaguar",
+        "ingredients": [
+        "2 oz Vodka",
+        "2 oz Chardonnay Barrel Orange Blossom",
+        "½ oz simple syrup",
+        "2-3 drops of aromatic bitters",
+        "¼ lemon, squeezed"],
+        "garnish":"Garnish: Lemon twist",
+        "directions":"Stir all ingredients over ice, then strain into a chilled Nick &amp; Nora glass. Garnish with lemon twist."
+    },
+    {
+        "name":"Kelley's Island",
+        "ingredients": [
+        "1 oz Middle West Whiskey",
+        "1 oz Stonefruit Vodka",
+        "1 oz OYO Vodka",
+        "1 oz Honey Vanilla Vodka",
+        "1 oz Wild Ohio",
+        "1 lemon wedge, squeezed",
+        "Cola"],
+        "garnish":"Garnish: Lemon wheel",
+        "directions":"Pour the cola into a pint glass. Short shake the remaining ingredients with ice for about 5 seconds, then strain into the glass. Fill the glass with ice cubes and garnish with the lemon wheel."
+    },
+    {
+        "name":"Salty Caramel",
+        "ingredients": [
+        "1 oz Honey Vanilla Vodka",
+        "1 oz DT Coffee Liquor",
+        "1 oz BB Mead",
+        "1 oz Brioso Mead",
+        "½ simple syrup",
+        "10 drops Salty Cacao bitters"],
+        "garnish":"Garnish: Sprinkle of salt.",
+        "directions":"Hard shake all ingredients 3 times, strain into chilled rocks glass, and sprinkle salt over drink."
+    },
+    {
+        "name":"Appletini",
+        "ingredients": [
+        "2½ oz Watershed Vodka",
+        "2½ Summer Apple",
+        "¼ oz simple syrup",
+        "¼ lime juice"],
+        "garnish":"Garnish: Apple slice",
+        "directions":"Shake all ingredients over ice, quick and hard. Strain into chilled glass and float apple slice on top of drink."
+    },
+    {
+        "name":"Lemon Drop",
+        "ingredients": [
+        "2 oz Watershed Vodka",
+        "1 oz simple syrup",
+        "½ lemon, squeezed"],
+        "garnish":"Garnish: No garnish",
+        "directions":"Makes 2 shots. Shake hard and quick over ice, avoiding diulation. Strain into shot glasses."
+    },
+    {
+        "name":"Great Balls of Fire",
+        "ingredients": [
+        "1½ oz Middle West Whiskey",
+        "1 oz Apple Pie",
+        "½ oz Hot Shot"],
+        "garnish":"Garnish: No garnish",
+        "directions":"Makes 2 shots. Shake hard over ice, then strain into shot glasses."
+    },
+    {
+        "name":"Uppercut",
+        "ingredients": [
+        "4 oz batched coffee cocktail"],
+        "garnish":"Garnish: Orange twist",
+        "directions":"Stir over large scoop of ice, then strain into martini glass. Garnish with orange twist."
+    },
+    {
+        "name":"Courtland",
+        "ingredients": [
+        "1 oz Whiskey",
+        "3 oz Apple Pie"],
+        "garnish":"Garnish: No garnish",
+        "directions":"Combine ingredients in mead glass. Lightly swirl and serve neat."
+    },
+    {
+        "name":"Trust Fall",
+        "ingredients": [
+        "½ oz Whiskey",
+        "½ oz Honey Vanilla Vodka",
+        "1 oz Van Gogh Espresso Vodka",
+        "1½ oz Apple Pie",
+        "2 oz Eggnog"],
+        "garnish":"Garnish: Coffee granules",
+        "directions":"Shake all ingredients over ice gently, then strain into rocks glass. Sprink coffee over top of drink."
+    },
+    {
+        "name":"My Winter Honey",
+        "ingredients": [
+        "1½ oz Black Liquorie Mead",
+        "1 oz Cinnamon infused Watershed Vodka",
+        "2 oz Eggnog"],
+        "garnish":"Garnish: Sprinkle of cinnamon",
+        "directions":"Add all ingredients to glass, and swirl. Add a small amount of ice, then sprinkle cinnamon on top of drink."
+    },
+    {
+        "name":"Local Vesper",
+        "ingredients": [
+        "1 oz Hopped Traditional Mead",
+        "1½ oz OYO Vodka",
+        "1½ oz Watershed Gin",
+        "½ bar sliced orange",
+        "2 dashes of bitters"],
+        "garnish":"Garnish: A smile",
+        "directions":"Muddle orange in bitters in tin, then add all other ingredients. Shake hard and strain into martini glass."
+    },
+    {
+        "name":"Matcha Sour",
+        "ingredients": [
+        "1½ oz Gin",
+        "1 oz Summer Queen",
+        "¾ oz Matcha tea",
+        "¾ oz lemon juice",
+        "½ oz Peach schnapps"],
+        "garnish":"Garnish: Lemon wedge and mint",
+        "directions":"Shake all ingredients over ice, then strain into rocks glass. Garnish with lime wedge and mint leaf."
+    },
+    {
+        "name":"Beetween the Sheets",
+        "ingredients": [
+        "¾ oz Rum",
+        "¾ oz Gran Gala",
+        "¾ oz Oaked Cyser",
+        "¾ oz Lemon juice"],
+        "garnish":"Garnish: No garnish",
+        "directions":"Shake all the ingredients with ice, then strain into a chilled coupe. No garnish."
+    }
+    ]
+}
